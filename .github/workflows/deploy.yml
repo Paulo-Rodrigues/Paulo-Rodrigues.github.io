@@ -7,6 +7,8 @@ jobs:
     steps:
       - name: Checkout do código
         uses: actions/checkout@v4
+        with:
+          submodules: true
       - name: Build e deploy com Zola
         uses: shalzz/zola-deploy-action@master
         env:
