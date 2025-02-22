@@ -1,3 +1,11 @@
++++
+title = "Sobre mim"
+date = 2025-02-22
+
+[taxonomies]
+tags = ["tech"]
++++
+
 # Sobre Mim
 
 Oi, pessoal! Meu nome é Paulo Rodrigues, e sou um apaixonado por tecnologia, códigos e soluções que fazem a diferença no mundo digital. Atualmente, estou cursando **Ciência de Dados na Univesp**. Antes disso, me formei em **Engenharia de Produção**, mas foi na programação que encontrei minha verdadeira paixão.
