@@ -18,7 +18,7 @@ Hoje começa uma jornada. Não sei exatamente onde isso vai dar, mas sei que o c
 
 ## A Idéia
 
-Vamos construir alguns sistemas. O tamanho e complexidade desses sistemas nem eu mesmo sei, o objetivo aqui não é ter muita regra ou mesmo disciplina e sim ver o que acontece pelo caminho, até onde a aimaginação vai nos levar e a explorar tecnologias, desde bancos de dados até blockchain, passando por inteligência artificial, microserviços, Ruby on Rail, Javascript, Rust e o que mais vier.
+Vamos construir alguns sistemas. O tamanho e complexidade desses sistemas nem eu mesmo sei, o objetivo aqui não é ter muita regra ou mesmo disciplina e sim ver o que acontece pelo caminho, até onde a aimaginação vai nos levar e a explorar tecnologias, desde bancos de dados até blockchain, passando por inteligência artificial, microserviços, Ruby on Rails, Javascript, Rust e o que mais vier.
 
 Nesse processo, vamos discutir conceitos, tecnologias e filosofias que moldam o mundo da programação.
 
