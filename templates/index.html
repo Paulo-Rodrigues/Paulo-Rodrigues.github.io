@@ -1,0 +1,6 @@
+{% extends "terminimal/templates/index.html" %}
+
+{% block extra_head %}
+    <link rel="manifest" href="{{ config.base_url }}/manifest.json">
+    <script src="{{ config.base_url }}/javascript/sw.js"></script>
+{% endblock %}
