@@ -1,0 +1,16 @@
+{
+    "short_name": "Dev Blog",
+    "name": "Paulo Rodrigues Dev Blog",
+    "description": "Dev Personal Blog about tech",
+    "icons": [
+      {
+        "src": "favicon144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#23b0ff",
+    "background_color": "#fff"
+  }

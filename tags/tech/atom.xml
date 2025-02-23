@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - tech</title>
+    <link rel="self" type="application/atom+xml" href="https://paulo-rodrigues.dev/tags/tech/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://paulo-rodrigues.dev"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-02-22T00:00:00+00:00</updated>
+    <id>https://paulo-rodrigues.dev/tags/tech/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Sobre mim</title>
+        <published>2025-02-22T00:00:00+00:00</published>
+        <updated>2025-02-22T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://paulo-rodrigues.dev/pages/about/"/>
+        <id>https://paulo-rodrigues.dev/pages/about/</id>
+        
+        <content type="html" xml:base="https://paulo-rodrigues.dev/pages/about/">&lt;h1 id=&quot;sobre-mim&quot;&gt;Sobre Mim&lt;&#x2F;h1&gt;
+&lt;p&gt;Oi, pessoal! Meu nome é Paulo Rodrigues, e sou um apaixonado por tecnologia, códigos e soluções que fazem a diferença no mundo digital. Atualmente, estou cursando &lt;strong&gt;Ciência de Dados na Univesp&lt;&#x2F;strong&gt;. Antes disso, me formei em &lt;strong&gt;Engenharia de Produção&lt;&#x2F;strong&gt;, mas foi na programação que encontrei minha verdadeira paixão.&lt;&#x2F;p&gt;
+&lt;p&gt;Trabalho como &lt;strong&gt;Engenheiro de Software&lt;&#x2F;strong&gt;, onde tive a oportunidade de mergulhar em projetos incríveis e,m diversas áreas. Basicamente, eu ajudo a transformar ideias complexas em soluções práticas e eficientes, usando tecnologias como &lt;strong&gt;Ruby on Rails&lt;&#x2F;strong&gt;, &lt;strong&gt;React.js&lt;&#x2F;strong&gt;(que são meu foco) e até um pouco de &lt;strong&gt;Rust&lt;&#x2F;strong&gt;(estou apaixonado) e &lt;strong&gt;Python&lt;&#x2F;strong&gt; quando a situação pede.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;o-que-eu-faco&quot;&gt;O Que Eu Faço?&lt;&#x2F;h2&gt;
+&lt;p&gt;No dia a dia, meu trabalho envolve um pouco de tudo:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Criar &lt;strong&gt;APIs robustas&lt;&#x2F;strong&gt; e &lt;strong&gt;interfaces bonitas&lt;&#x2F;strong&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Garantir que a infraestrutura esteja rodando direitinho com &lt;strong&gt;Kubernetes&lt;&#x2F;strong&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Configurar pipelines de &lt;strong&gt;CI&#x2F;CD&lt;&#x2F;strong&gt; para que tudo funcione de forma ágil e sem sustos.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Mas não é só código que me move. Gosto de pensar que estou construindo coisas que realmente ajudam as pessoas. E, claro, sempre aprendendo algo novo no caminho.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;por-que-este-blog&quot;&gt;Por Que Este Blog?&lt;&#x2F;h2&gt;
+&lt;p&gt;Sempre gostei de compartilhar o que aprendo, e este blog é o meu cantinho para fazer isso. Aqui, você vai encontrar:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Reflexões&lt;&#x2F;strong&gt; sobre técnologia em geral.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Opiniões&lt;&#x2F;strong&gt; sobre arquitetura e design de software.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Quero que este seja um espaço para aprender e, quem sabe, inspirar alguém a mergulhar nesse mundo incrível da programação.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;um-pouco-mais-sobre-mim&quot;&gt;Um Pouco Mais Sobre Mim&lt;&#x2F;h2&gt;
+&lt;p&gt;Quando não estou codando ou estudando, você provavelmente vai me encontrar:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tocando &lt;strong&gt;guitarra&lt;&#x2F;strong&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Com amigos em algum barzinho(karaoke!!).&lt;&#x2F;li&gt;
+&lt;li&gt;Tentando me manter vivo.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;vamos-conversar&quot;&gt;Vamos Conversar?&lt;&#x2F;h2&gt;
+&lt;p&gt;Se você também é apaixonado por tecnologia, ou só está curioso para saber mais sobre o assunto, fique à vontade para:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explorar os posts.&lt;&#x2F;li&gt;
+&lt;li&gt;Entrar em contato comigo &lt;a href=&quot;https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;paulor2222&#x2F;&quot;&gt;Meu LinkedIn&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Adoro trocar ideias e conhecer pessoas que compartilham dos mesmos interesses.&lt;&#x2F;p&gt;
+&lt;p&gt;E, claro, obrigado por visitar o blog! Espero que você encontre aqui algo útil, inspirador ou, pelo menos, divertido. 😊&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Hello World!</title>
+        <published>2025-02-21T00:00:00+00:00</published>
+        <updated>2025-02-21T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://paulo-rodrigues.dev/hello-world/"/>
+        <id>https://paulo-rodrigues.dev/hello-world/</id>
+        
+        <summary type="html">&lt;h1 id=&quot;o-comeco-de-algo&quot;&gt;O Começo de Algo&lt;&#x2F;h1&gt;
+&lt;p&gt;Este blog será uma jornada. Uma jornada de descobertas, experimentações e reflexões sobre tecnologia, programação e o impacto que elas têm no mundo ao nosso redor. Aqui, não há um destino final claramente definido, mas sim um caminho que será contruído, linha de código por linha de código.&lt;&#x2F;p&gt;
+&lt;p&gt;Às vezes, vou me perder em discussões profundas sobre a filosofia por trás de um algoritmo ou a ética de uma decisão técnica. Outras vezes, irei apenas me divertir explorando tecnologias novas (ou antigas) e descobrindo como elas podem se encaixar nesse quebra-cabeça que será montando.&lt;&#x2F;p&gt;
+&lt;p&gt;Este não é um blog de respostas prontas. É um espaço para questinamentos, para dúvidas, para experimentos.&lt;&#x2F;p&gt;
+&lt;p&gt;Hoje começa uma jornada. Não sei exatamente onde isso vai dar, mas sei que o caminho será percorrido, descobertas e, claro, muito código. Este projeto é como um rio: tem uma nascente, mas o curso que ele vai seguir depende das curvas que existirem pelo caminho.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;a-ideia&quot;&gt;A Idéia&lt;&#x2F;h2&gt;
+&lt;p&gt;Vamos construir alguns sistemas. O tamanho e complexidade desses sistemas nem eu mesmo sei, o objetivo aqui não é ter muita regra ou mesmo disciplina e sim ver o que acontece pelo caminho, até onde a aimaginação vai nos levar e a explorar tecnologias, desde bancos de dados até blockchain, passando por inteligência artificial, microserviços, Ruby on Rails, Javascript, Rust e o que mais vier.&lt;&#x2F;p&gt;
+&lt;p&gt;Nesse processo, vamos discutir conceitos, tecnologias e filosofias que moldam o mundo da programação.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+</feed>
