@@ -44,7 +44,7 @@ menu_items = [
     # $BASE_URL is going to be substituted by base_url from configuration
     {name = "blog", url = "$BASE_URL"},
     {name = "tags", url = "$BASE_URL/tags"},
-    {name = "about me", url = "$BASE_URL/about"},
+    {name = "about me", url = "$BASE_URL/pages/about"},
     {name = "github", url = "https://github.com/Paulo-Rodrigues", newtab = true},
 ]
 
